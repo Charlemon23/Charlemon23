@@ -3,11 +3,10 @@
 This repository contains a collection of Python projects focused on financial data engineering, trading strategies, API integrations, and machine learning signal generation.
 
 ## Projects
-- [Financial Data Pipeline](financial-data-pipeline/README.md)
-- [Trading Strategy Backtester](trading-strategy-backtester/README.md)
-- [Api Integration Framework](api-integration-framework/README.md)
-- [Ml Market Signal Generator](ml-market-signal-generator/README.md)
-
+- [Financial Data Pipeline](https://github.com/Charlemon23/financial-data-pipeline)
+- [Trading Strategy Backtester](https://github.com/Charlemon23/trading-strategy-backtester)
+- [API Integration Framework](https://github.com/Charlemon23/api-integration-framework)
+- [ML Market Signal Generator](https://github.com/Charlemon23/ml-market-signal-generator)
 
 ## Contact
 - Email: Charlemon.London@sus.edu  
