@@ -10,26 +10,32 @@ B.S. in Computer Science, Concentration in Information Systems (Expected Decembe
 
 ## Core Skills
 Programming Languages
-	•	Python, C++, Java, JavaScript, SQL
+	
+•	Python, C++, Java, JavaScript, SQL
 
 Data Science & AI
-	•	pandas, NumPy, scikit-learn, TensorFlow, yfinance, backtesting.py
+	
+ •	pandas, NumPy, scikit-learn, TensorFlow, yfinance, backtesting.py
 	•	Feature engineering, model optimization, predictive analytics
 
 APIs & Automation
-	•	REST APIs, WebSocket integration, real-time data ingestion
+	
+ •	REST APIs, WebSocket integration, real-time data ingestion
 	•	Workflow automation & ETL/ELT pipelines
 
 Cybersecurity
-	•	Kali Linux, Wireshark, penetration testing, network security, ICS/SCADA systems
+	
+ •	Kali Linux, Wireshark, penetration testing, network security, ICS/SCADA systems
 	•	Security automation & vulnerability assessment
 
 Cloud & DevOps
-	•	AWS, Azure, Google Cloud Platform
+	
+ •	AWS, Azure, Google Cloud Platform
 	•	Git, GitHub Actions, CI/CD pipelines
 
 Research & Experimentation
-	•	AI-driven yield prediction for chemical/physics experiments
+	
+ •	AI-driven yield prediction for chemical/physics experiments
 	•	Data preprocessing, feature importance analysis, statistical modeling
 
 ---
