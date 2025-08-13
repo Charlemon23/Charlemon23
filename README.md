@@ -1,22 +1,40 @@
-Python Developer specializing in quantitative finance, data engineering, and applied AI.  
-I design and build scalable systems for market data ingestion, backtesting, and machine learning–driven trading signal generation.  
-I also have a strong background in cybersecurity and penetration testing, bringing a unique blend of finance and security expertise.
+Python Developer specializing in data engineering, applied AI, cloud security, and quantitative finance. I design and build scalable systems for market data ingestion, backtesting, and machine learning–driven trading signal generation.
 
-B.S. in Computer Science, Concentration in Information Security (Expected December 2025)  
+My recent research applies artificial intelligence to predict the yield of physics experiments involving compounds such as copper sulfate, optimizing accuracy and reducing trial cycles. This work bridges data science and physical experimentation, showcasing my ability to apply AI across domains.
 
----
+I also have a strong background in cybersecurity and penetration testing, demonstrated by placing 2nd in a CIA-sponsored national cybersecurity hackathon hosted at Southern University, bringing a unique blend of finance, scientific research, and security expertise.
 
-## 🚀 Core Skills
-- Programming Languages: Python, C++, Java, JavaScript, SQL
-- Data & AI: pandas, NumPy, scikit-learn, yfinance, backtesting
-- APIs & Automation: REST, WebSocket, API integration
-- Cybersecurity: Kali Linux, Wireshark, penetration testing
-- Cloud & Tools: AWS, Azure, GCP, Git, GitHub, Docker
-- Quant Research: Strategy design, risk metrics, market signal generation
+B.S. in Computer Science, Concentration in Information Systems (Expected December 2025)
 
 ---
 
-## 📂 Featured Projects
+## Core Skills
+Programming Languages
+	•	Python, C++, Java, JavaScript, SQL
+
+Data Science & AI
+	•	pandas, NumPy, scikit-learn, TensorFlow, yfinance, backtesting.py
+	•	Feature engineering, model optimization, predictive analytics
+
+APIs & Automation
+	•	REST APIs, WebSocket integration, real-time data ingestion
+	•	Workflow automation & ETL/ELT pipelines
+
+Cybersecurity
+	•	Kali Linux, Wireshark, penetration testing, network security, ICS/SCADA systems
+	•	Security automation & vulnerability assessment
+
+Cloud & DevOps
+	•	AWS, Azure, Google Cloud Platform
+	•	Git, GitHub Actions, CI/CD pipelines
+
+Research & Experimentation
+	•	AI-driven yield prediction for chemical/physics experiments
+	•	Data preprocessing, feature importance analysis, statistical modeling
+
+---
+
+## Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -28,12 +46,12 @@ B.S. in Computer Science, Concentration in Information Security (Expected Decemb
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 Email: [Charlemon.London@sus.edu](mailto:Charlemon.London@sus.edu)  
 LinkedIn: [linkedin.com/in/charlemon-london-309459216](https://linkedin.com/in/charlemon-london-309459216)  
 
 ---
 
-## 💡 What I’m Working On
+## What I’m Working On
 - Building production-ready quant research tools for data ingestion, backtesting, and alpha generation.  
 - Expanding real-world security tooling for network defense and penetration testing.
